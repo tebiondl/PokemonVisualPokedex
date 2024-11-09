@@ -1,0 +1,110 @@
+.title-selection-button {
+    background-color: #4d6bce;
+    color: #e674f0;
+    font-size: 25px;
+    font-weight: bold;
+    width: 250px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title-selection-button-disabled {
+    background-color: #595d69;
+    color: #8d5192;
+    font-size: 25px;
+    font-weight: bold;
+    width: 250px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title-text {
+    font-size: 32px;
+    color: rgb(169, 113, 214);
+    font-weight: bold;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main-window {
+    background-color: #90b1df;
+}
+
+.direction-button {
+    background-color: #4d6bce;
+    color: #e674f0;
+    font-size: 30px;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 5px 5px;
+    width: 120px;
+    height: 30px;
+}
+
+.play-button {
+    background-color: #4d6bce;
+    color: #e674f0;
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 5px;
+    padding: 5px 5px;
+    width: 70px;
+    height: 70px;
+}
+
+.search-button {
+    background-color: #4d6bce;
+    color: #e674f0;
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 5px;
+    padding: 5px 5px;
+}
+
+.search-button-disabled {
+    background-color: #595d69;
+    color: #8d5192;
+    font-weight: bold;
+    font-size: 17px;
+    border-radius: 5px;
+    padding: 5px 5px;
+}
+
+.description-text {
+    color: rgb(169, 113, 214);
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.types-text {
+    color: rgb(169, 113, 214);
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.pokemon-name-text {
+    color: rgb(169, 113, 214);
+    font-size: 40px;
+    font-weight: bold;
+    width: 100px;
+}
+
+.search-bar {
+    color: #f8a5ff;
+    font-size: 15px;
+    font-weight: bold;
+    border: 0px solid black;
+    background-color: #7799c9;
+}
+
+.completer-search-bar {
+    color: #f8a5ff;
+    font-size: 15px;
+    font-weight: bold;
+    border: 0px solid black;
+    background-color: #7799c9;
+}

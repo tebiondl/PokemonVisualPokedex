@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="">
+	<InmunityTypeRelations>
+		<Id>1</Id>
+		<InmuneType_Id>6</InmuneType_Id>
+		<AttackingType_Id>7</AttackingType_Id>
+	</InmunityTypeRelations>
+	<InmunityTypeRelations>
+		<Id>2</Id>
+		<InmuneType_Id>2</InmuneType_Id>
+		<AttackingType_Id>5</AttackingType_Id>
+	</InmunityTypeRelations>
+	<InmunityTypeRelations>
+		<Id>4</Id>
+		<InmuneType_Id>3</InmuneType_Id>
+		<AttackingType_Id>8</AttackingType_Id>
+	</InmunityTypeRelations>
+</dataroot>

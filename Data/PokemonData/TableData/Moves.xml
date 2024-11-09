@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="">
+	<Moves>
+		<Id>1</Id>
+		<MoveName>Dragon Claw</MoveName>
+		<Type_Id>5</Type_Id>
+		<MoveType>0</MoveType>
+		<Power>80</Power>
+		<Precision>100</Precision>
+	</Moves>
+	<Moves>
+		<Id>2</Id>
+		<MoveName>Sludge Bomb</MoveName>
+		<Type_Id>8</Type_Id>
+		<MoveType>1</MoveType>
+		<Power>90</Power>
+		<Precision>100</Precision>
+	</Moves>
+	<Moves>
+		<Id>3</Id>
+		<MoveName>Close Combat</MoveName>
+		<Type_Id>9</Type_Id>
+		<MoveType>1</MoveType>
+		<Power>120</Power>
+		<Precision>100</Precision>
+	</Moves>
+	<Moves>
+		<Id>4</Id>
+		<MoveName>Iron Head</MoveName>
+		<Type_Id>3</Type_Id>
+		<MoveType>1</MoveType>
+		<Power>80</Power>
+		<Precision>100</Precision>
+	</Moves>
+	<Moves>
+		<Id>5</Id>
+		<MoveName>Ice Beam</MoveName>
+		<Type_Id>1</Type_Id>
+		<MoveType>0</MoveType>
+		<Power>90</Power>
+		<Precision>100</Precision>
+	</Moves>
+	<Moves>
+		<Id>6</Id>
+		<MoveName>Flare Blitz</MoveName>
+		<Type_Id>11</Type_Id>
+		<MoveType>1</MoveType>
+		<Power>120</Power>
+		<Precision>100</Precision>
+	</Moves>
+</dataroot>

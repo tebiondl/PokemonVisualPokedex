@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="">
+	<ResistTypeRelations>
+		<Id>1</Id>
+		<ResistType_Id>5</ResistType_Id>
+		<AttackingType_Id>10</AttackingType_Id>
+	</ResistTypeRelations>
+	<ResistTypeRelations>
+		<Id>2</Id>
+		<ResistType_Id>5</ResistType_Id>
+		<AttackingType_Id>11</AttackingType_Id>
+	</ResistTypeRelations>
+	<ResistTypeRelations>
+		<Id>3</Id>
+		<ResistType_Id>5</ResistType_Id>
+		<AttackingType_Id>13</AttackingType_Id>
+	</ResistTypeRelations>
+	<ResistTypeRelations>
+		<Id>4</Id>
+		<ResistType_Id>5</ResistType_Id>
+		<AttackingType_Id>15</AttackingType_Id>
+	</ResistTypeRelations>
+	<ResistTypeRelations>
+		<Id>5</Id>
+		<ResistType_Id>10</ResistType_Id>
+		<AttackingType_Id>13</AttackingType_Id>
+	</ResistTypeRelations>
+	<ResistTypeRelations>
+		<Id>6</Id>
+		<ResistType_Id>10</ResistType_Id>
+		<AttackingType_Id>7</AttackingType_Id>
+	</ResistTypeRelations>
+	<ResistTypeRelations>
+		<Id>7</Id>
+		<ResistType_Id>10</ResistType_Id>
+		<AttackingType_Id>15</AttackingType_Id>
+	</ResistTypeRelations>
+	<ResistTypeRelations>
+		<Id>9</Id>
+		<ResistType_Id>8</ResistType_Id>
+		<AttackingType_Id>9</AttackingType_Id>
+	</ResistTypeRelations>
+</dataroot>
